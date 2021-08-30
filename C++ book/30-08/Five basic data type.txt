@@ -1,0 +1,26 @@
+
+*****Basic five data type********
+
+Char, int, double, float, void;
+
+Char - 8 bits
+int - 16 or 32 bits (Based on system environment)
+double - 64 bits
+float - 32 bits
+void - valueless
+
+
+*******Modifying the basic type*******
+
+signed, unsigned, long, short;
+
+unsigned int -0 to 65,535 (we can use for all)
+signed int - -32,767 to 32,767 (we can use for all)
+short int - 16
+long int - 32
+
+int range  - (32,767 to -32,768)
+
+*******Identifier name*******
+
+*******Variable*******
