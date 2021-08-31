@@ -1,0 +1,3 @@
+﻿  PrintClient.cpp
+c:\users\e177536\source\repos\printclient\printclient\printclient.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PrintClient.vcxproj -> C:\Users\e177536\source\repos\PrintClient\Debug\PrintClient.exe
