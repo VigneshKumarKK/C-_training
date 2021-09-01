@@ -1,0 +1,1 @@
+printf("p = %p, ptr = %p\n", p, ptr);
