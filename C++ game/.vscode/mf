@@ -1,0 +1,9 @@
+all:
+g++ -c main.cpp
+g++ -c board.cpp
+g++ -c check_player_mark.cpp
+g++ -c checkwin.cpp
+g++ -c makemove.cpp
+g++ -o main main.o board.o check_player_mark.o checkwin.o makemove.o
+./main
+./main
