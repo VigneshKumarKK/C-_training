@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\e177536\source\repos\vigneshserver\vigneshserver\main.cpp(8): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Vigneshserver.vcxproj -> C:\Users\e177536\source\repos\Vigneshserver\Debug\Vigneshserver.exe
